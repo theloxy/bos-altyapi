@@ -1,1 +1,0 @@
-yuklemek için `sa`
